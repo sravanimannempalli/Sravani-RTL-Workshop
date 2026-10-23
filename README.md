@@ -17,6 +17,10 @@ This repository contains my notes for a workshop covering RTL design, simulation
 ## Tools Mentioned
 Icarus Verilog, GTKWave, Yosys, OpenLane, Magic, and ngspice.
 
+## Journey video
+
+[▶ Watch the Journey video on Google Drive](https://drive.google.com/file/d/1sbPFIZVsHH17xqeqcMMV03jCmrBm4jgY/view?usp=sharing)
+
 ## Final Project github repo link
 https://github.com/sravanimannempalli/cold-chain-temperature-monitor
 
